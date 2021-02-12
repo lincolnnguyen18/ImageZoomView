@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1F0F575A-981C-4274-8CE6-CD47EFF6BE03</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F0F575A-981C-4274-8CE6-CD47EFF6BE03.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634803865.19799101</real>
+			<key>timeStoppedRecording</key>
+			<real>634803866.39252496</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>1F0F575A-981C-4274-8CE6-CD47EFF6BE03</string>
+		</dict>
+		<key>3BBC6D2D-FC7B-4D23-99FB-ED93A2B9337C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3BBC6D2D-FC7B-4D23-99FB-ED93A2B9337C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634803786.88215303</real>
+			<key>timeStoppedRecording</key>
+			<real>634803788.10755205</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>3BBC6D2D-FC7B-4D23-99FB-ED93A2B9337C</string>
+		</dict>
+		<key>3F56E1E8-C15F-4C82-B2AB-754A043861C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3F56E1E8-C15F-4C82-B2AB-754A043861C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634803928.29763103</real>
+			<key>timeStoppedRecording</key>
+			<real>634803935.41395795</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>3F56E1E8-C15F-4C82-B2AB-754A043861C3</string>
+		</dict>
+		<key>54014D72-E92B-4112-8009-64755195F60F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54014D72-E92B-4112-8009-64755195F60F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634803271.49533296</real>
+			<key>timeStoppedRecording</key>
+			<real>634803272.30121005</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>54014D72-E92B-4112-8009-64755195F60F</string>
+		</dict>
+		<key>5EC6A1D3-5E8C-49E2-B71D-ED23AA519872</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5EC6A1D3-5E8C-49E2-B71D-ED23AA519872.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634803316.93345499</real>
+			<key>timeStoppedRecording</key>
+			<real>634803317.51175404</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>5EC6A1D3-5E8C-49E2-B71D-ED23AA519872</string>
+		</dict>
+		<key>70EE7737-367F-44A9-B3E7-11A057B3DB1E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>70EE7737-367F-44A9-B3E7-11A057B3DB1E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634804990.03434706</real>
+			<key>timeStoppedRecording</key>
+			<real>634804991.66133296</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>70EE7737-367F-44A9-B3E7-11A057B3DB1E</string>
+		</dict>
+		<key>A98C079C-514C-472B-9A00-1CC291C73B30</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A98C079C-514C-472B-9A00-1CC291C73B30.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634803769.57975304</real>
+			<key>timeStoppedRecording</key>
+			<real>634803770.78853595</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>A98C079C-514C-472B-9A00-1CC291C73B30</string>
+		</dict>
+		<key>B37DEA1F-EA26-422D-A239-B57600D280CD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B37DEA1F-EA26-422D-A239-B57600D280CD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634803230.86868894</real>
+			<key>timeStoppedRecording</key>
+			<real>634803241.08242798</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>B37DEA1F-EA26-422D-A239-B57600D280CD</string>
+		</dict>
+		<key>C3542101-8AF5-45AF-8C41-B21F3775BAA9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C3542101-8AF5-45AF-8C41-B21F3775BAA9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634803873.99814296</real>
+			<key>timeStoppedRecording</key>
+			<real>634803875.22992098</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>C3542101-8AF5-45AF-8C41-B21F3775BAA9</string>
+		</dict>
+		<key>CACA4ECD-2525-4EEF-A2CD-4FA1C6AC33AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CACA4ECD-2525-4EEF-A2CD-4FA1C6AC33AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634803677.47761405</real>
+			<key>timeStoppedRecording</key>
+			<real>634803683.905339</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>CACA4ECD-2525-4EEF-A2CD-4FA1C6AC33AA</string>
+		</dict>
+		<key>DF9B1FE4-E8F8-4221-8594-9EC0479155FF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DF9B1FE4-E8F8-4221-8594-9EC0479155FF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634804971.21223903</real>
+			<key>timeStoppedRecording</key>
+			<real>634804974.04691899</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>DF9B1FE4-E8F8-4221-8594-9EC0479155FF</string>
+		</dict>
+		<key>E71798CF-6CD3-4183-9A15-90364F21EA5B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E71798CF-6CD3-4183-9A15-90364F21EA5B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634804020.077986</real>
+			<key>timeStoppedRecording</key>
+			<real>634804021.40620506</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>E71798CF-6CD3-4183-9A15-90364F21EA5B</string>
+		</dict>
+		<key>FB21D0C7-D58D-4871-BEEC-A09718D41A80</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB21D0C7-D58D-4871-BEEC-A09718D41A80.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ImageZoomView project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ImageZoomView</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ImageZoomView</string>
+			<key>timeStartedRecording</key>
+			<real>634804137.52532494</real>
+			<key>timeStoppedRecording</key>
+			<real>634804138.09252596</real>
+			<key>title</key>
+			<string>Build ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>FB21D0C7-D58D-4871-BEEC-A09718D41A80</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

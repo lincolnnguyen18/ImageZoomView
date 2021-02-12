@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2C6EF36F-8684-43D2-8DDA-97232759627A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>2C6EF36F-8684-43D2-8DDA-97232759627A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>ImageZoomView-fgdfelpfamnxsdgszwpskqruwauc</string>
+			<key>timeStartedRecording</key>
+			<real>634804990.08702302</real>
+			<key>timeStoppedRecording</key>
+			<real>634804991.64558303</real>
+			<key>title</key>
+			<string>Build target ImageZoomView</string>
+			<key>uniqueIdentifier</key>
+			<string>2C6EF36F-8684-43D2-8DDA-97232759627A</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

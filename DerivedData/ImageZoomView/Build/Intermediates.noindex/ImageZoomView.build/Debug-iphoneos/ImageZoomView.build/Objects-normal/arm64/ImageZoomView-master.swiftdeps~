@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "9b08d1e051d4520268194c091f945b31"
+build_time: [1613112171, 366471000]
+inputs:
+  "/Users/lincolnnguyen/Desktop/ImageZoomView/ImageZoomView/ViewController.swift": [1613111382, 642513212]
+  "/Users/lincolnnguyen/Desktop/ImageZoomView/ImageZoomView/ImageZoomView.swift": [1613111914, 331829119]
+  "/Users/lincolnnguyen/Desktop/ImageZoomView/ImageZoomView/AppDelegate.swift": [1613093048, 868699538]
+  "/Users/lincolnnguyen/Desktop/ImageZoomView/ImageZoomView/SceneDelegate.swift": [1613093048, 879229265]
